@@ -1,0 +1,19 @@
+{
+    "name": "hpdev225/jquery-dataTables-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony HpdevDataTablesBundle",
+    "keywords": ["dataTables", "table plugins", "jQuery", "hpdev225"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hervé Patrick Dohou"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": { "Hpdev\\dataTableBundle\\": "" }
+    }
+    
+}
