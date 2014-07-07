@@ -1,5 +1,5 @@
 {
-    "name": "hpdev225/HpdevDataTablesBundle",
+    "name": "hpdev225/dataTables-bundle",
     "type": "symfony-bundle",
     "description": "Symfony HpdevDataTablesBundle",
     "keywords": ["dataTables", "table plugins", "jQuery", "hpdev225"],
